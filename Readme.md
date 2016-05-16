@@ -6,7 +6,6 @@ We have a typical task system based on a single queue feeding multiple threads, 
 
 A minimal set of tests are used to time the various implementations using tasks that are side effect only.
 
-
-This code has been inspired by prior work created by Sean Parent. Any derivitive code is included here subject to th eterms of the Boost Licence.
+This repository acknowledges the prior work of Sean Parent. 
 
 
